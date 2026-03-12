@@ -15,27 +15,27 @@ I enjoy creating projects for clients, building my own SaaS products, and improv
 - 🤝 Open to collaborating on: React, Node.js, Tailwind, MERN Projects
 
 ---
+## 🛠️ Technical Skills
 
-## 🛠️ **Technical Skills**
+### Frontend
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React.js  
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
+![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) TailwindCSS  
 
-### **Frontend**
-- React.js  
-- HTML / CSS / JavaScript  
-- TailwindCSS  
+### Backend
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js  
+![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) Express.js  
 
-### **Backend**
-- Node.js  
-- Express.js  
+### Database
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) MongoDB  
+![Mongoose](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) Mongoose  
 
-### **Database**
-- MongoDB  
-- Mongoose  
-
-### **Tools & Others**
-- Git • GitHub  
-- MS Office  
-- Photoshop  
-- REST APIs  
+### Tools & Others
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git  
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) GitHub  
+![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) VS Code  
+![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg) Photoshop 
 
 ---
 
