@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&secondaryColor=ff4500&height=150&section=header&text=ARBAZ%20ALI&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
-
-<br />
-
-# <kbd> ✨ Hi there, I'm Arbaz Ali </kbd>
-
-### 💠 `Full-Stack Architect` • `Creative Designer` • `AI Enthusiast` 💠
-**`────────── THE BLACK ARO ──────────`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Arbaz+Ali+👋" alt="Arbaz Ali" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-MERN%20STACK-black?style=for-the-badge&logo=mongodb&logoColor=white&color=101010" />
-  <img src="https://img.shields.io/badge/-UI%2FUX-black?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=ff4500" />
-  <img src="https://img.shields.io/badge/-SaaS%20BUILDER-black?style=for-the-badge&logo=vercel&logoColor=white&color=101010" />
+  <code style="color: #FF4500; background: #1A1A1A; padding: 5px 15px; border-radius: 5px; border: 1px solid #FF4500;">
+    🚀 MERN STACK ARCHITECT
+  </code>
+  &nbsp; 
+  <code style="color: #FFFFFF; background: #1A1A1A; padding: 5px 15px; border-radius: 5px; border: 1px solid #333;">
+    ✦ UI/UX ENTHUSIAST ✦
+  </code>
+  &nbsp;
+  <code style="color: #FF4500; background: #1A1A1A; padding: 5px 15px; border-radius: 5px; border: 1px solid #FF4500;">
+    THE "BLACK ARO"
+  </code>
 </p>
+
 </div>
 
 <p align="center">
