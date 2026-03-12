@@ -1,75 +1,69 @@
-# Hi there 👋 I'm Arbaz Ali
-### 🚀 MERN Stack Developer | Software Developer | Self-Learner
+<h1 align="center">Hi there, I'm Arbaz Ali 👋</h1>
+<h3 align="center">🚀 MERN Stack Developer | UI/UX Enthusiast | The "Black Aro"</h3>
 
-Motivated and passionate web developer with hands-on experience in building real-world applications using the MERN stack.
-I enjoy creating projects for clients, building my own SaaS products, and improving my skills daily. Web development is my best hobby and skill, and I love crafting clean, scalable, and modern apps.
+<p align="center">
+  <a href="https://arbaz-aro.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/arbaz-ali-290917325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arbazali.code2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/923032826801" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
+
+Motivated and passionate web developer with hands-on experience in building real-world applications using the MERN stack. I enjoy creating projects for clients, building my own SaaS products, and improving my skills daily. I love crafting clean, scalable, and modern digital experiences.
 
 ## 🧩 About Me
 
-- 🌱 Mastering: MERN Stack, React, TailwindCSS
-- 🤖 Using AI make beautiful design with AI
-- 🔭 Building personal SaaS products & client projects
-- ✨ Focused on clean code, modern UI, scalability, and fast development
-- 🤝 Open to collaborating on: React, Node.js, Tailwind, MERN Projects
+- 🌱 **Currently Mastering:** MERN Stack, React, TailwindCSS
+- 🎨 **Creative Edge:** Leveraging AI and Photoshop to craft stunning, high-quality digital designs and modern UIs.
+- 🔭 **Focus:** Building personal SaaS products & client projects with clean code and fast performance.
+- 🤝 **Open to Collaborate on:** React, Node.js, Tailwind, and full-stack MERN projects.
 
 ---
+
 ## 🛠️ Technical Skills
 
+<div align="center">
+  
 ### **Frontend**
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-</div>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" alt="Frontend Skills" />
 
-### **Backend**
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</div>
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
 
-### **Database**
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
-</div>
+### **Tools & Design**
+<img src="https://skillicons.dev/icons?i=git,github,photoshop,vscode" alt="Tools" />
 
-### **Tools & Others**
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="MS Office" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restapi/restapi-original-wordmark.svg" alt="REST APIs" width="40" height="40"/>
 </div>
----
-
-## 💡 **Core Strengths**
-- Using AI fast
-- desing with AI
-- Problem Solving  
-- Teamwork  
-- Fast Learning  
-- Communication
 
 ---
 
-## 📫 **Contact Me**
-- **Website:** https://arbaz-aro.vercel.app
-- **Email:** arbazali.code2025@gmail.com  
-- **WhatsApp:** +92 303 2826801  
-- **LinkedIn:** https://www.linkedin.com/in/arbaz-ali-290917325/
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Arbaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the links above with your actual GitHub username to activate the stats).*
 
 ---
 
-## ⚡ **Fun Facts**
-- I use lot of AI for frontend & making design
-- I learn something new every single day  
-- I love reading, documentaries, and tech stories  
-- I call my working-self version **Black Aro** 😄  
-- My goal: Code daily, grow daily  
+## 💡 Core Strengths & Fun Facts
 
+- ⚡ **AI-Assisted Workflow:** I heavily utilize AI tools to accelerate frontend development and generate creative design assets.
+- 📈 **Fast Learner:** I code and learn something new every single day to stay ahead in tech.
+- 📚 **Beyond Coding:** I love reading, watching documentaries, and exploring tech stories.
+- 🎭 **Alter Ego:** When I'm deep into work mode, I call my working-self version **Black Aro** 😄
+- 🎯 **Ultimate Goal:** Code daily, grow daily.
+
+---
+<p align="center"><i>Thanks for visiting my profile! Feel free to reach out.</i></p>
