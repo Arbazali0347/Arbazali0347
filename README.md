@@ -18,10 +18,10 @@ I enjoy creating projects for clients, building my own SaaS products, and improv
 ## 🛠️ Technical Skills
 
 ### Frontend
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React.js  
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS  
-![Tailwind](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg) TailwindCSS  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> React.js  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> HTML  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> CSS 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/> TailwindCSS  
 
 ### Backend
 ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js  
